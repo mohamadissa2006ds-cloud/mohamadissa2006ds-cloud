@@ -1,7 +1,7 @@
 <h1 align="center">Great to meet you — welcome to my world of knowledge & power</h1>
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1534751516642-a1af1ef26a56?auto=format&fit=crop&w=1200&q=80" 
+  <img src="https://images.unsplash.com/photo-1526378722484-bd91ca387e72?auto=format&fit=crop&w=1200&q=80" 
        alt="Power & Knowledge Banner" width="750">
 </p>
 
@@ -12,7 +12,8 @@
 <p align="center">
   Student at  
   <br>
-  <strong>Saint Joseph University of Beirut (USJ)</strong>  
+  <strong>Saint Joseph University of Beirut (USJ)</strong> 
+   <strong>Bachelor in Mathematics, option Data Science</strong>  
   <br>
   <a href="https://www.usj.edu.lb/universite/institutions.php?getinst=99&lang=2" target="_blank">
     🔗 University Website
