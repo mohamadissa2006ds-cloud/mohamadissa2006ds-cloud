@@ -1,11 +1,8 @@
 <h1 align="center">Great to meet you — welcome to my world of knowledge & power</h1>
-
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1537432376769-00a7907e3e0e?auto=format&fit=crop&w=1200&q=80" 
-       alt="AI & Data Science Power" width="750">
+  <img src="https://images.unsplash.com/photo-1581092334159-1a1d98a74212?auto=format&fit=crop&w=1200&q=80" 
+       alt="Data Science & Coding Dark Banner" width="750">
 </p>
-
-
 
 <h3 align="center">I'm <strong>Mohamad Issa</strong></h3>
 
