@@ -1,5 +1,5 @@
-<h1 style="color: #44AEFB;"> Yaakoub Hamad👨‍💻 </h1>
-<h3 align="center">Experienced Mobile Developer👨‍💻: Building Innovative  Mobile Applications📱</h3>
+<h1 style="color: #44AEFB;"> Mohamad Issa👨‍💻 </h1>
+<h3 align="center">Data Scientist & Full-Stack Web Developer 🌐🤖</h3>
 <img src="ezgif.com-add-text.gif" alt="github_cover_banner" />
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
