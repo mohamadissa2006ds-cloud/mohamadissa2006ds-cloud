@@ -12,9 +12,9 @@
 <p align="center">
   Student at  
   <br>
-  <strong>Saint Joseph University of Beirut (USJ)</strong> 
-   <strong>Bachelor in Mathematics, option Data Science</strong>  
+  <strong>Saint Joseph University of Beirut (USJ)</strong>   
   <br>
+  <h3 align="center"><strong>Bachelor in Mathematics, option Data Science</strong></h3>
   <a href="https://www.usj.edu.lb/universite/institutions.php?getinst=99&lang=2" target="_blank">
     🔗 University Website
   </a>
