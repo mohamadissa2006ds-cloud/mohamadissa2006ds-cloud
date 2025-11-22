@@ -1,6 +1,7 @@
 <h1 align="center">Great to meet you — welcome to my world of knowledge & power</h1>
 <p align="center">
-  <img src="https://i.imgur.com/8fK4h2N.jpeg" alt="Power & Knowledge Banner" width="700">
+  <img src="https://images.unsplash.com/photo-1526378722484-bd91ca387e72?auto=format&fit=crop&w=1200&q=80" 
+       alt="Power & Knowledge Banner" width="750">
 </p>
 <h3 align="center">I'm <strong>Mohamad Issa</strong></h3>
 
