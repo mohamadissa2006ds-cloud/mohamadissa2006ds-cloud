@@ -16,12 +16,12 @@
   </a>
 </p>
 
-
+---
 About Me:  
 Fueled by curiosity, driven by discipline, and inspired by technology.  
 I believe that real strength comes from learning, building,  
 and improving every single day.
-
+---
 
  Values : 
 - Power in knowledge  
@@ -30,7 +30,7 @@ and improving every single day.
 - Creativity in building  
 
 
-
+---
 Languages & Skills:💻 
 
 <p align="center">
@@ -42,7 +42,7 @@ Languages & Skills:💻
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
-
+---
 GitHub Stats:
 
 <p align="center">
@@ -50,7 +50,7 @@ GitHub Stats:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamadissa&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
-
+---
 
 GitHub Streak:
 
@@ -58,7 +58,7 @@ GitHub Streak:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamadissa&theme=tokyonight&hide_border=true" height="150" />
 </p>
 
-
+---
 
 Projects / Work 🛠  
 - Crypto & Currency Dynamics: Comparative Analysis with Bitcoin, Ethereum, and Gold  
