@@ -1,16 +1,34 @@
-## Hi there 👋
+<h1 align="center">⚡ Great to meet you — and welcome to my world of knowledge & power ⚡</h1>
 
-<!--
-**mohamadissa2006ds-cloud/mohamadissa2006ds-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://i.imgur.com/8fK4h2N.jpeg" alt="Power & Knowledge Banner" width="700">
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">I'm <strong>Mohamad Issa</strong></h3>
+<p align="center">
+  Student at <strong>University Saint Joseph de Beyrouth (USJ)</strong>  
+</p>
+
+---
+
+## 🚀 About Me  
+Fueled by curiosity, driven by discipline, and inspired by technology.  
+I believe that real strength comes from learning, building, and improving every single day.
+
+---
+
+## 🔥 My Values  
+- **Power in knowledge**  
+- **Clarity in thinking**  
+- **Consistency in learning**  
+- **Creativity in building**
+
+---
+
+## 📫 Contact  
+Feel free to reach out anytime!  
+(add your email or LinkedIn link here)
+
+---
