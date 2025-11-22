@@ -1,6 +1,6 @@
 <h1 style="color: #44AEFB;"> Mohamad Issa👨‍💻 </h1>
 <h3 align="center">Data Scientist & Full-Stack Web Developer 🌐🤖</h3>
-<img src="picture.png" />
+<img src="picture.png"width="300"  />
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
     👋 Hello! I'm Yaakoub Hamad, an experienced Mobile Developer with a passion for crafting exceptional mobile experiences. My expertise lies in leveraging the power of Flutter and BloC architecture to build innovative and user-friendly applications. With a keen eye for design and a commitment to creating seamless user interfaces, I take pride in transforming ideas into reality.
