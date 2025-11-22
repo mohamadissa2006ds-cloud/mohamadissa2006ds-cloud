@@ -1,11 +1,11 @@
 <h1 align="center">Great to meet you — welcome to my world of knowledge & power</h1>
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1526378722484-bd91ca387e72?auto=format&fit=crop&w=1200&q=80" 
-       alt="Power & Knowledge Banner" width="750">
+  <img src="https://images.unsplash.com/photo-1537432376769-00a7907e3e0e?auto=format&fit=crop&w=1200&q=80" 
+       alt="AI & Data Science Power" width="750">
 </p>
 
----
+
 
 <h3 align="center">I'm <strong>Mohamad Issa</strong></h3>
 
@@ -21,24 +21,60 @@
 </p>
 
 
-
- About Me : 
+About Me:  
 Fueled by curiosity, driven by discipline, and inspired by technology.  
 I believe that real strength comes from learning, building,  
 and improving every single day.
 
 
-
- My Values:
+ Values : 
 - Power in knowledge  
-- Clarity in thinking 
-- Consistency in learning 
-- Creativity in building
+- Clarity in thinking  
+- Consistency in learning  
+- Creativity in building  
 
 
 
-Contact 📫: 
+Languages & Skills:💻 
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+GitHub Stats:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamadissa&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamadissa&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+
+
+GitHub Streak:
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamadissa&theme=tokyonight&hide_border=true" height="150" />
+</p>
+
+
+
+Projects / Work 🛠  
+- Crypto & Currency Dynamics: Comparative Analysis with Bitcoin, Ethereum, and Gold  
+  (Data Science • Pandas • Matplotlib • Predictive Analytics • YFinance • Prophet • Bitcoin Price Forecasting)
+  
+- Web Development – HTML, CSS, JavaScript Projects  
+- Data Projects – R, SQL, Python Machine Learning Models  
+
+> Check my repositories for more projects and experiments.
+
+---
+
+Contact📫  
 Feel free to reach out anytime!  
-(www.linkedin.com/in/mohamad-issa-ds)
-
-
+👉 [LinkedIn](https://www.linkedin.com/in/mohamad-issa-ds)
