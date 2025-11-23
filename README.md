@@ -114,7 +114,7 @@ I’m passionate about leveraging data and technology to create impactful digita
 <p align="center">
 <a href="https://www.linkedin.com/in/mohamad-issa-ds" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mohamad Issa" height="30" width="40" />
 </a>
-<a href="https://stackoverflow.com/users/22245794" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22245794" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/31930500/mohamad-issa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mohamad-issa" height="30" width="40" /></a>
 <a href="https://www.facebook.com/share/1Fpxza2L5e/?mibextid=wwXIfr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohamad issa" height="30" width="40" /></a>
 <a href="https://www.instagram.com/mohamad.issa43?igsh=bHZreDN6dHhsc3J1&utm_source=qr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohamad issa" height="30" width="40" /></a>
 <a href="https://medium.com/@mohamad.issa2006.ds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Mohamad Issa Medium" height="30" width="40" /></a>
